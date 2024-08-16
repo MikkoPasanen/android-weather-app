@@ -13,9 +13,6 @@ App was made as part of TAMK's Mobile development courses end project.
 - Multiple setting choices
 - Daily weather notifications
 
-## Screencast
-Link to the <a href=https://youtu.be/WRMiBSPdSBc>screencast</a>
-
 ## Technologies used
 [![Technologies](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
 
